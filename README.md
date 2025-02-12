@@ -34,13 +34,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbrahamRaymundo&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamRaymundo&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrahamcruzc&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamcruzc&theme=tokyonight" />
 </p>
 
 ---  
 
-🔗 **More on [my GitHub](https://github.com/AbrahamRaymundo?tab=repositories)**
+🔗 **More on [my GitHub](https://github.com/abrahamcruzc?tab=repositories)**
 
 ---
 
