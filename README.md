@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="mailto:correo@acruz.work"><img src="https://img.shields.io/badge/Email-acruz.work-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-Abraham%20Raymundo-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/abrahamcruzc"><img src="https://img.shields.io/badge/LinkedIn-Abraham%20Cruz-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
