@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Go+%7C+PostgreSQL;Passionate+about+Backend+Development" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.github/workflows/wave.gif" width="200" alt="Go Gopher" />
-</p>
-
 ---
 
 ### 🚀 About Me
