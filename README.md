@@ -37,6 +37,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrahamcruzc&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamcruzc&theme=tokyonight" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamcruzc&theme=onedark)
 
 ---  
 
