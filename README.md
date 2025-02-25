@@ -10,7 +10,7 @@
 
 - 🎓 **Software Engineering** student at UADY.
 - 💡 Passionate about **backend development** with **Go**.
-- 📚 Currently learning **Typescript** and **Angular**.
+- 📚 Currently learning **Swift** and **SwiftUI**.
 - 🎮 Casual gamer and tech enthusiast.
 
 ---
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/HTMX-007ACC?style=for-the-badge&logo=htmx&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 ---
