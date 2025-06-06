@@ -10,7 +10,7 @@
 
 - 🎓 **Software Engineering** student at UADY.
 - 💡 Passionate about **backend development** with **Go**.
-- 📚 Currently learning **Fiber** 
+- 📚 Currently learning **Django** 
 - 🎮 Casual gamer and tech enthusiast.
 
 ---
