@@ -10,7 +10,7 @@
 
 - 🎓 **Software Engineering** student at UADY.
 - 💡 Passionate about **backend development** with **Go**.
-- 📚 Currently learning **FastAPI** 
+- 📚 Currently learning **Terraform** 
 - 🎮 Casual gamer and tech enthusiast.
 
 ---
