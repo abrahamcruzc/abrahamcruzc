@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Abraham Cruz 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C++%7C+PostgreSQL;Passionate+about+Backend+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Go+%7C+PostgreSQL;Passionate+about+Backend+Development" />
 </p>
 
 ---
