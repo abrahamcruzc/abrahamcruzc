@@ -10,7 +10,7 @@
 
 - 🎓 **Software Engineering** student at UADY.
 - 💡 Passionate about **backend development** 
-- 📚 Currently learning **Terraform** 
+- 📚 Currently learning **Kubernetes** 
 - 🎮 Casual gamer and tech enthusiast.
 
 ---
