@@ -43,7 +43,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with Me -
 
 <p align="center">
   <a href="mailto:abrahamcruzc@yahoo.com"><img src="https://img.shields.io/badge/Email-yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
